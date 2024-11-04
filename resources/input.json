@@ -1,0 +1,26 @@
+[{
+	"OrderId": 1,
+	"Weight": 2,
+	"CityDistrict": 1,
+	"DeliveryTime": "2023-01-12T02:21:00.0000000+03:00"
+}, {
+	"OrderId": 2,
+	"Weight": 1,
+	"CityDistrict": 1,
+	"DeliveryTime": "2022-01-12T02:11:00.0000000+03:00"
+}, {
+	"OrderId": 3,
+	"Weight": 0.8,
+	"CityDistrict": 2,
+	"DeliveryTime": "2023-01-12T03:11:00.0000000+03:00"
+}, {
+	"OrderId": 4,
+	"Weight": 0.4,
+	"CityDistrict": 1,
+	"DeliveryTime": "2023-01-12T02:41:00.0000000+03:00"
+}, {
+	"OrderId": 5,
+	"Weight": 2.5,
+	"CityDistrict": 2,
+	"DeliveryTime": "2023-01-12T01:11:00.0000000+03:00"
+}]
